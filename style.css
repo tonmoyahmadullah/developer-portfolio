@@ -14,6 +14,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 150px ;
 }
 .half-width{
     width:50%;
@@ -31,8 +32,13 @@ section{
     border-radius: 5px;
 
 }
+
 .dream-big{
-    padding-top: 10%;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right ;
+}
+    
 }
 .resume-link-button{
     text-decoration: none;
